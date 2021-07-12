@@ -1,0 +1,20 @@
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\bin\Debug\binEdit.exe.config
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\bin\Debug\binEdit.exe
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\bin\Debug\binEdit.pdb
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\bin\Debug\binEdit.xml
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\obj\Debug\binEdit.vbprojResolveAssemblyReference.cache
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\obj\Debug\binEdit.Resources.resources
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\obj\Debug\binEdit.vbproj.GenerateResource.Cache
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\obj\Debug\binEdit.exe
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\obj\Debug\binEdit.xml
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\binEdit\obj\Debug\binEdit.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\bin\Debug\binEdit.exe.config
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\obj\Debug\binEdit.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\obj\Debug\binEdit.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\obj\Debug\binEdit.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\bin\Debug\binEdit.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\bin\Debug\binEdit.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\bin\Debug\binEdit.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\obj\Debug\binEdit.vbprojResolveAssemblyReference.cache
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\obj\Debug\binEdit.Resources.resources
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\binEdit\binEdit\obj\Debug\binEdit.vbproj.GenerateResource.Cache

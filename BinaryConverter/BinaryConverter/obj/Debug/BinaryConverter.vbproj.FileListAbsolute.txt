@@ -1,0 +1,11 @@
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\BinaryConverter\bin\Debug\BinaryConverter.exe.config
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.exe.config
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.vbprojResolveAssemblyReference.cache
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.Resources.resources
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.vbproj.GenerateResource.Cache
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.pdb

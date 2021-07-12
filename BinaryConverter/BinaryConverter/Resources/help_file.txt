@@ -1,0 +1,1 @@
+this_exe.exe <fromFile> <toFile> <fromFormat> <toFormat>	* All arguments required.	From and To format are numeric	Formats: 0,1,2,3	Byte sequences are:		0:  1, 2, 3, 4		1:  2, 1, 4, 3		2:  3, 4, 1, 2		3:  4, 3, 2, 1
