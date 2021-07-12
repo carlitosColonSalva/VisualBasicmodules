@@ -1,0 +1,20 @@
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\bin\Debug\backtrack.exe.config
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\bin\Debug\backtrack.exe
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\bin\Debug\backtrack.pdb
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\bin\Debug\backtrack.xml
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\obj\Debug\backtrack.vbprojResolveAssemblyReference.cache
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\obj\Debug\backtrack.Resources.resources
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\obj\Debug\backtrack.vbproj.GenerateResource.Cache
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\obj\Debug\backtrack.exe
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\obj\Debug\backtrack.xml
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\backtrack\obj\Debug\backtrack.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\bin\Debug\backtrack.exe.config
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\obj\Debug\backtrack.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\obj\Debug\backtrack.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\obj\Debug\backtrack.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\bin\Debug\backtrack.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\bin\Debug\backtrack.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\bin\Debug\backtrack.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\obj\Debug\backtrack.vbprojResolveAssemblyReference.cache
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\obj\Debug\backtrack.Resources.resources
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\backtrack\backtrack\obj\Debug\backtrack.vbproj.GenerateResource.Cache
