@@ -1,0 +1,35 @@
+
+this executable reads from console.
+you specify number of lines and it will put together the number of lines specified in te same line.
+
+the arguments are as follow:
+
+this_exe.exe number_of_lines delimiter
+                
+parameters accepted are:
+
+number_of_lines
+	the number_ of lines that will be put together
+	will return argument and appended info like this
+		example:
+			line1,line2,line3...
+
+	if enter a 0 on number of lines then every line will output on one single line
+
+
+delimiter
+		the character that will be between the lines when delimtited
+
+to use tab as delimiter type /t
+
+you can also read info from a file like this:
+
+	this_exe.exe< filename.txt
+
+to redirect to a file you can:
+
+	this_exe.exe number_of_lines delimiter >new-file.csv
+
+or you can also read from file and also redirect like this:
+
+	this_exe.exe< filename.txt> new_file.csv
