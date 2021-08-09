@@ -1,0 +1,11 @@
+C:\Users\SU TIENDA INC\AppData\Local\Temporary Projects\Console_textedit\bin\Debug\Console_textedit.exe.config
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\bin\Debug\textedit.exe.config
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\bin\Debug\textedit.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\bin\Debug\textedit.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\bin\Debug\textedit.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\obj\Debug\textedit.Resources.resources
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\obj\Debug\Console_textedit.vbproj.GenerateResource.Cache
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\obj\Debug\textedit.exe
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\obj\Debug\textedit.xml
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\obj\Debug\textedit.pdb
+C:\Users\SU TIENDA INC\Documents\Visual Studio 2015\Projects\Console_textedit\Console_textedit\obj\Debug\Console_textedit.vbprojResolveAssemblyReference.cache

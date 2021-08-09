@@ -1,0 +1,140 @@
+
+this executable accepts piped arguments from
+another executable
+
+the arguments are as follow:
+
+this_exe.exe option argument
+
+options:
+	(-prepend | -p) | 
+	(-append | -a) | 
+	(-remove | -rm) |
+	(-replace FOO -with FOO2 | -r FOO -w FOO2) | 
+	(-replaceline FOO -with FOO2 | -rl FOO -w FOO2) | 
+	(-substring | -s) |
+	(-trim | -t) | 
+	(-trimstart | -ts) |
+	(-trimend | -te) argument
+	(~h0x...~)
+
+*options can start with - (dash) OR / (slash)
+
+--
+
+tab character is managed by typing /t or /T
+quotes character is managed by typing /q or /Q
+
+-append argument
+-a argument
+	will add  the argument to the end of each line
+	and write to console               
+
+-prepend argument
+-p argument
+	will add  the argument to the beginning of each line
+	and write to console               
+
+-remove argument
+-rm argument
+	will remove the argument string on each line
+	and write to console               
+
+-replace argument -with another_argument
+-r argument -w another_argument
+	will replace the argument string on each line with the other argument specified
+	and write to console     
+	
+-replaceline argument -with another_argument
+-rl argument -w another_argument
+	if the line contains first argument then
+	it will replace the line with the other argument specified
+	and write to console     	
+	          
+-duplicate argument
+-d argument
+	will duplicate the string of each line in the same line with the argument specified in between
+	and write to console           
+
+-trim argument
+-t argument
+	will remove at the end and at the start of each line the specified set of characters
+
+-trimstart argument
+-ts argument
+	will remove at the start of each line the set of characters specified
+
+-trimend argument
+-te argument
+	will remove at the end of each line the set of characters specified
+
+-substring argument
+-s argument
+
+	the argument for substring is the indexes of where to get a substring
+	first number is number of characters to skip
+	second number is number of characters to get
+	they are written together but separated by comma
+	
+	if only one number is specified this will be the number of characters to skip
+	and will get characters until the end.
+
+	if write a 0 on first number and a negative number on second number then will get everything on the line
+	except for the last ones specified on the second number
+
+	example:
+		-s 1,5
+	
+~h0x00...~
+	hexEdit
+	If you want to specify some text in argument in hex, type:
+	~h0x00...~
+	example: to replace an "A" with "@":
+		this_exe.exe -replace "A" -with "~h0x40~"
+		or:
+		this_exe.exe -replace "~h0x41~" -with "@"
+
+You can enter more than one hex value in the same statement:
+	example: to replace an "@" with "AB"
+		this_exe.exe -replace "@" -with "~h0x4142~"
+
+You can also specify hex with plain text joined:
+	example: to replace "FOO,@" with "FOO"
+		this_exe.exe -replace "FOO~h0x2C40~" -with "FOO"
+
+
+you can also read info from a file like this:
+
+	this_exe.exe< filename.txt
+
+to redirect to a file you can:
+
+	this_exe.exe arguments>new-file.csv
+
+	this_exe.exe arguments>new-file.csv
+
+to read from file:
+	type file_with_info | this_exe.exe arguments
+	this_exe.exe arguments<file_with_info
+
+ you can also read from file and also redirect like this:
+	this_exe.exe< file_with_info.txt> new_file.csv
+
+	and with arguments
+		this_exe.exe arguments< filename.txt> new_file.csv
+
+examples:
+	this_exe.exe -append argument
+	this_exe.exe -prepend argument
+	this_exe.exe -replace argument -with another_argument
+	this_exe.exe -replaceline argument -with another_argument
+	this_exe.exe -remove argument
+	this_exe.exe -duplicate argument
+	this_exe.exe -substring argument
+
+	this_exe.exe -append argument>new_file.txt
+	this_exe.exe -prepend argument>new_file.txt
+	this_exe.exe -replace argument -with another_argument>new_file.txt
+	this_exe.exe -remove argument>new_file.txt
+	this_exe.exe -duplicate argument>new_file.txt
+	this_exe.exe -substring argument>new_file.txt
